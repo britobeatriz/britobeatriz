@@ -1,8 +1,4 @@
-## Olá, eu sou a Beatriz Brito!
-
-* 👨‍🎓 Análise e Desenvolvimento de Sistemas
-* 🎲 Estudando Data Science
-* 👩 Ela/Dela
+## Opa! eu sou Beatriz Brito!
 
 <div align="center">
   <a href="https://github.com/britobeatriz">
@@ -11,3 +7,7 @@
 </div>
 
 ![Snake animation](https://github.com/britobeatriz/britobeatriz/blob/output/github-contribution-grid-snake.svg)
+
+* 👨‍🎓 Análise e Desenvolvimento de Sistemas
+* 🎲 Estudando Data Science
+* 👩 Ela/Dela
