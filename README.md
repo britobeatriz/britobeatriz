@@ -1,5 +1,6 @@
 ## Olá, eu sou a Beatriz Brito!
 
+* 👨‍🎓 Análise e Desenvolvimento de Sistemas
 * 🎲 Estudando Data Science
 * 👩 Ela/Dela
 
