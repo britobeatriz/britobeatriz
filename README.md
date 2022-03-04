@@ -1,4 +1,4 @@
-## Opa! eu sou Beatriz Brito!
+## Opa! eu sou Beatriz Brito.
 
 * 👨‍🎓 Análise e Desenvolvimento de Sistemas
 * 🎲 Estudando Data Science
