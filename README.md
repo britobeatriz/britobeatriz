@@ -6,11 +6,9 @@
 </div>
 
 ### Oiii 👋,<br>
-Eu sou Beatriz, mas pode me chamar de Bia. Eu tenho formação em Análise e Desenvolvimento de Sistemas, mas atualmente estou me dedicando a Análise de Dados, usando Python como linguagem principal e usando ferramentas como Power BI.<br>
+Me chamo Beatriz, mas pode me chamar de Bia. Tenho formação em Análise e Desenvolvimento de Sistemas, mas atualmente estou me dedicando a Análise de Dados, usando Python como linguagem principal e usando ferramentas como Power BI.<br>
 <br>
-Sou apaixonada por tecnologia e desenvolvimento pessoal. Assim, estou sempre em busca de novas formas de aprimoramento, através de livros, mídias e outros. Também pretendo criar um Instagram para poder compartilhar conteúdo, conhecimento e aprendizado sobre esse mundo da tecnologia, Análise de Dados, Data Science, produtividade. Também adoro trilhas e coisas vintage. 
-
-
+Sou apaixonada por tecnologia e desenvolvimento pessoal. Assim, estou sempre em busca de novas formas de aprimoramento, através de livros, mídias e outros. Também adoro trilhas e coisas vintage.
 </div>
 
 <div align="center">
