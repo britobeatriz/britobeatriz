@@ -3,9 +3,7 @@
 <div>
   <p align="right">
     <a href="https://www.linkedin.com/in/beatriz-de-brito-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-     <a href="https://www.linkedin.com/in/beatriz-de-brito-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    
-    <a href="https://www.linkedin.com/in/beatriz-de-brito-lima/" target="_blank"><img src="https://img.shields.io/badge/-Portif%C3%B3lio-%230077B5?style=for-the-badge" target="_blank"></a>
+     <a href="https://comfy-bombolone-06e1cf.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portif%C3%B3lio-%230077B5?style=for-the-badge" target="_blank"></a>
 </div>
 
 ### Oiii 👋,<br>
