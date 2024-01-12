@@ -11,9 +11,3 @@ Me chamo Beatriz, mas pode me chamar de Bia. Tenho formação em Análise e Dese
 <br>
 Sou apaixonada por tecnologia e desenvolvimento pessoal. Assim, estou sempre em busca de novas formas de aprimoramento, através de livros, mídias e outros. Também adoro trilhas e coisas vintage.
 </div>
-
-<div align="center">
-
-![Snake animation](https://github.com/britobeatriz/britobeatriz/blob/output/github-contribution-grid-snake.svg)
-
-</div>
