@@ -8,9 +8,15 @@
 
 ### OLÁ 👋,<br>
 
-### SEJA BEM-VINDO AO MEU REPOSITÓRIO
+### SEJA BEM-VINDO AO MEU GITHUB 🚀
 
-Me chamo Beatriz, mas pode me chamar de Bia. Tenho formação em Análise e Desenvolvimento de Sistemas, mas atualmente estou me dedicando a Ciência de Dados, usando Python como linguagem principal e usando ferramentas como Power BI.<br>
+Me chamo Beatriz, mas pode me chamar de Bia. Sou apaixonada por tecnologia e desenvolvimento pessoal. Assim, estou sempre em busca de novas formas de aprimoramento, através de livros, mídias e outros. Também gosto de coisas vintage e de plantas.<br>
 <br>
-Sou apaixonada por tecnologia e desenvolvimento pessoal. Assim, estou sempre em busca de novas formas de aprimoramento, através de livros, mídias e outros. Também adoro trilhas e coisas vintage.
+🎓 Pós-graduação em Analytics e Business Intelligence(cursando)
+📊 Power BI | SQL
+🐍 Python | PySpark
+☁️ Microsoft Fabric
+🔄 ETL | Data Pipelines | Automação
+<br>
+Aqui compartilho projetos, estudos e experimentos relacionados a dados, analytics e tecnologia, buscando transformar problemas reais de negócio em soluções orientadas por dados.
 </div>
