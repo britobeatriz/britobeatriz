@@ -10,10 +10,10 @@
 
 Me chamo Beatriz, mas pode me chamar de Bia. Sou apaixonada por tecnologia e desenvolvimento pessoal. Assim, estou sempre em busca de novas formas de aprimoramento, através de livros, mídias e outros. Também gosto de coisas vintage e de plantas.<br>
 <br>
-🎓 Pós-graduação em Analytics e Business Intelligence(cursando)
-📊 Power BI | SQL
-🐍 Python | PySpark
-☁️ Microsoft Fabric
+🎓 Pós-graduação em Analytics e Business Intelligence(cursando)<br>
+📊 Power BI | SQL<br>
+🐍 Python | PySpark<br>
+☁️ Microsoft Fabric<br>
 🔄 ETL | Data Pipelines | Automação
 <br>
 Aqui compartilho projetos, estudos e experimentos relacionados a dados, analytics e tecnologia, buscando transformar problemas reais de negócio em soluções orientadas por dados.
