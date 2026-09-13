@@ -14,7 +14,7 @@ Me chamo Beatriz, mas pode me chamar de Bia. Sou apaixonada por tecnologia e des
 📊 Power BI | SQL<br>
 🐍 Python | PySpark<br>
 ☁️ Microsoft Fabric<br>
-🔄 ETL | Data Pipelines | Automação
+🔄 ETL | Data Pipelines | Automação<br>
 <br>
 Aqui compartilho projetos, estudos e experimentos relacionados a dados, analytics e tecnologia, buscando transformar problemas reais de negócio em soluções orientadas por dados.
 </div>
